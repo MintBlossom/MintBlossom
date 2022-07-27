@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome 👋
+
+Premedical Course @ Inje University, Republic of Korea
+
+
+Learned
+--- 
+<img src="https://img.shields.io/badge/Python-3776AB?style=Plastic&logo=Python&logoColor=FFFFFF"/>
+
+
 
 <!--
 **MintBlossom/MintBlossom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-Premedical Course @ Inje University, Republic of Korea
+College of Medicine @ Inje University, Republic of Korea
 
 
 Learned
